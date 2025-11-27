@@ -25,16 +25,19 @@
 ---
 
 ## 실행 화면
+- **HLL(.py)**
+<p align="center">
+    <img width="347" height="291" alt="image" src="https://github.com/user-attachments/assets/76ac9c21-bfba-4f51-a454-968037f54163" />
+    <img width="339" height="224" alt="image" src="https://github.com/user-attachments/assets/f827856b-65bb-4790-9dee-9cabec344c23" />
+</p>
+
+- **Web(.php)**
 <p align="center">
     <img width="433" height="331" alt="image" src="https://github.com/user-attachments/assets/dbb26786-fd3c-4f24-82b7-955d603e059f" />
     <img width="433" height="331" alt="image" src="https://github.com/user-attachments/assets/73ac4b0c-7265-484d-b7d2-2b1331dd4abc" />
     <img width="424" height="211" alt="image" src="https://github.com/user-attachments/assets/fad04345-5641-4fa0-8f1c-d841a041ac50" />
     <img width="424" height="211" alt="image" src="https://github.com/user-attachments/assets/ada295bb-60df-4bf0-83d0-685f45e0b0cd" />
     <img width="424" height="211" alt="image" src="https://github.com/user-attachments/assets/40f3984b-e4a7-41b2-ba89-4cc28f201c5f" />
-</p>
-<p align="center">
-    <img width="347" height="291" alt="image" src="https://github.com/user-attachments/assets/76ac9c21-bfba-4f51-a454-968037f54163" />
-    <img width="339" height="224" alt="image" src="https://github.com/user-attachments/assets/f827856b-65bb-4790-9dee-9cabec344c23" />
 </p>
 
 ---
@@ -50,7 +53,8 @@
 
 ## 🛠️ 프로젝트 진행 (How to Run)
 
-1.  **데이터베이스 구축 및 데이터 로드:** `PHOTOSYSETEM.sql` 파일 실행하여 데이터베이스 스키마를 생성 및 초기 데이터 삽입.
-2.  **애플리케이션 컴파일 및 실행:** `src/` 폴더의 소스 코드를 컴파일하고 실행.
+1.  **데이터베이스 구축 및 데이터 로드:** `PHOTOSYSETEM.sql` 파일 실행하여 데이터베이스 스키마를 생성 및 초기 데이터 삽입
+2.  **HLL-> Web 상호 검증 확인:** `db_config.py`파일 컴파일하고 나머지 .py 파일 실행 후. 'http://localhost/photoweb.php'의 4-table join 전체 결과 버튼 눌러 결과 조회
+3.  **Web -> HLL 상호 검증 확인:** apache 서버 실행 후 브라우저 창에 'http://localhost/photoweb.php'입력 후 기능 사용 후 `db_config.py` 컴파일 및 view_joined_data.py 실행해서 결과 조회
 
 ---
