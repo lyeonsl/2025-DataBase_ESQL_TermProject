@@ -9,7 +9,7 @@
 ## 스키마 설계
 - **ER-Diagram**
 <p align="center>
-    <img width="469" height="347" alt="image" src="https://github.com/user-attachments/assets/0cf708ee-26f8-465c-bc9d-e349c280c3a1" />
+    <img width="469" height="347" alt="image" src="https://github.com/user-attachments/assets/ea1a389e-4492-405c-9969-a597f2714562" />
     <img width="469" height="347" alt="image" src="https://github.com/user-attachments/assets/bb6a61dc-c795-41a4-b8e7-2673538ff140" />
 </p>
 
