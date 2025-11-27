@@ -50,7 +50,7 @@
 
 ---
 
-## 🛠️ 프로젝트 진행 (How to Run)
+## 프로젝트 진행 (How to Run)
 
 1.  **데이터베이스 구축 및 데이터 로드:** `PHOTOSYSETEM.sql` 파일 실행하여 데이터베이스 스키마를 생성 및 초기 데이터 삽입
 2.  **HLL-> Web 상호 검증 확인:** `db_config.py`파일 컴파일하고 나머지 .py 파일 실행 후. 'http://localhost/photoweb.php' 의 4-table join 전체 결과 버튼 눌러 결과 조회
