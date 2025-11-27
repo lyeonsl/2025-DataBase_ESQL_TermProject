@@ -3,7 +3,6 @@
 
 > USERS(사용자) – ALBUMS(앨범) – PHOTOS(사진) – DETAILS(사진 상세정보) 4-table join 데이터베이스를 기반으로 
 > sql의 INSERT, UPDATE, DELETE 구문을 Web과 HLL 상에서의 구현 및 상호 연결을 확인하는 **통합 사진 관리 시스템**을 개발하였습니다.    
-> 학우들의 강의실 이용 편의를 높이고, 불필요한 냉방/조명 사용을 줄여 **에너지 절약**에도 기여하고자 개발하였습니다.
 
 ---
 
@@ -54,7 +53,7 @@
 ## 🛠️ 프로젝트 진행 (How to Run)
 
 1.  **데이터베이스 구축 및 데이터 로드:** `PHOTOSYSETEM.sql` 파일 실행하여 데이터베이스 스키마를 생성 및 초기 데이터 삽입
-2.  **HLL-> Web 상호 검증 확인:** `db_config.py`파일 컴파일하고 나머지 .py 파일 실행 후. 'http://localhost/photoweb.php'의 4-table join 전체 결과 버튼 눌러 결과 조회
-3.  **Web -> HLL 상호 검증 확인:** apache 서버 실행 후 브라우저 창에 'http://localhost/photoweb.php'입력 후 기능 사용 후 `db_config.py` 컴파일 및 view_joined_data.py 실행해서 결과 조회
+2.  **HLL-> Web 상호 검증 확인:** `db_config.py`파일 컴파일하고 나머지 .py 파일 실행 후. 'http://localhost/photoweb.php' 의 4-table join 전체 결과 버튼 눌러 결과 조회
+3.  **Web -> HLL 상호 검증 확인:** apache 서버 실행 후 브라우저 창에 'http://localhost/photoweb.php' 입력 후 기능 사용 후 `db_config.py` 컴파일 및 view_joined_data.py 실행해서 결과 조회
 
 ---
