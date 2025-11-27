@@ -26,15 +26,15 @@
 
 ## 실행 화면
 <p align="center">
-    <img width="1732" height="1324" alt="image" src="https://github.com/user-attachments/assets/dbb26786-fd3c-4f24-82b7-955d603e059f" />
-    <img width="1706" height="1298" alt="image" src="https://github.com/user-attachments/assets/73ac4b0c-7265-484d-b7d2-2b1331dd4abc" />
-    <img width="1704" height="948" alt="image" src="https://github.com/user-attachments/assets/fad04345-5641-4fa0-8f1c-d841a041ac50" />
-    <img width="1695" height="843" alt="image" src="https://github.com/user-attachments/assets/ada295bb-60df-4bf0-83d0-685f45e0b0cd" />
-    <img width="1697" height="812" alt="image" src="https://github.com/user-attachments/assets/40f3984b-e4a7-41b2-ba89-4cc28f201c5f" />
+    <img width="433" height="331" alt="image" src="https://github.com/user-attachments/assets/dbb26786-fd3c-4f24-82b7-955d603e059f" />
+    <img width="433" height="331" alt="image" src="https://github.com/user-attachments/assets/73ac4b0c-7265-484d-b7d2-2b1331dd4abc" />
+    <img width="424" height="211" alt="image" src="https://github.com/user-attachments/assets/fad04345-5641-4fa0-8f1c-d841a041ac50" />
+    <img width="424" height="211" alt="image" src="https://github.com/user-attachments/assets/ada295bb-60df-4bf0-83d0-685f45e0b0cd" />
+    <img width="424" height="211" alt="image" src="https://github.com/user-attachments/assets/40f3984b-e4a7-41b2-ba89-4cc28f201c5f" />
 </p>
 <p align="center">
-    <img width="1039" height="873" alt="image" src="https://github.com/user-attachments/assets/76ac9c21-bfba-4f51-a454-968037f54163" />
-    <img width="1018" height="673" alt="image" src="https://github.com/user-attachments/assets/f827856b-65bb-4790-9dee-9cabec344c23" />
+    <img width="347" height="291" alt="image" src="https://github.com/user-attachments/assets/76ac9c21-bfba-4f51-a454-968037f54163" />
+    <img width="339" height="224" alt="image" src="https://github.com/user-attachments/assets/f827856b-65bb-4790-9dee-9cabec344c23" />
 </p>
 
 ---
