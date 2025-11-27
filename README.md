@@ -10,8 +10,7 @@
 - **ER-Diagram**
 <p align="center>
     <img width="522" height="377" alt="image" src="https://github.com/user-attachments/assets/d4f3df3f-2bf8-4269-8758-a3d3eaab8c02" />
-</p>
-<p align="center>
+    
     <img width="469" height="347" alt="image" src="https://github.com/user-attachments/assets/bb6a61dc-c795-41a4-b8e7-2673538ff140" />
 </p>
 
