@@ -6,14 +6,6 @@
 
 ---
 
-## 스키마 설계
-- **ER-Diagram**
-<p align="center>
-    <img width="539" height="394" alt="image" src="https://github.com/user-attachments/assets/fa9f2f92-c13e-4c70-9981-024a993e2afe" />
-</p>
-
----
-
 ## 핵심 기능(HLL-python)
 - **view_joined_data**: 4개의 테이블의 데이터를 조회
 - **insert_sample_data**: USERS, ALBUMS, PHOTOS, DETAILS 4개 테이블에 샘플 데이터를 삽입
